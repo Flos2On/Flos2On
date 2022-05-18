@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flos2On
 - 👀 I’m interested in developing many cool things
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me - just send me a message on github
 
 <!---
